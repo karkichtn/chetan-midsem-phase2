@@ -7,6 +7,10 @@
 - UID: 176
 - Problem Statement: P5 – Job Portal
 
+## Live Demo
+
+[View Live Job Portal](https://chetan-midsem-phase2.vercel.app/)
+
 ## Project Description
 
 A Job Portal application developed using React and Vite.
@@ -60,7 +64,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/karkichtn/chetan-midsem-phase2
+git clone https://github.com/karkichtn/chetan-midsem-phase2.git
 ```
 
 ### 2. Navigate to the project directory
